@@ -1,7 +1,31 @@
+## 📚 Boi Poka
+
+**Boi Poka** is a React-based web application for book lovers. Users can explore a variety of books, add them to their readlist, track how many pages they've read, and manage a wishlist for future reads.
+
+---
+
+### 🚀 Features
+
+- 📖 **Read Books** – Browse and read books inside the app.
+- 📚 **Add to Readlist** – Save books you're currently reading or plan to read.
+- 📊 **Track Reading Progress** – See how many pages you've read from each book.
+- 💖 **Wishlist** – Mark books you're interested in reading later.
+
+---
+
+### 🧠 Built With
+
+- React (Vite)
+- React Router DOM
+- Tailwind CSS
+- Local Storage or Context API (for managing state)
+
+---
+
 ### 📁 Project Structure
 
 ```
-boi-poka/
+react-boi-poka/
 ├── public/
 │   └── index.html                # Main HTML file
 │
