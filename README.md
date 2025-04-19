@@ -1,4 +1,7 @@
-react-boi-poka/
+### 📁 Project Structure
+
+```
+boi-poka/
 ├── public/
 │   └── index.html                # Main HTML file
 │
@@ -16,3 +19,4 @@ react-boi-poka/
 ├── package.json                  # Project dependencies and scripts
 ├── README.md                     # Project overview
 └── vite.config.js                # Vite configuration (or webpack.config.js)
+```
