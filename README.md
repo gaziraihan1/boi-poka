@@ -27,12 +27,12 @@
 ```
 react-boi-poka/
 ├── public/
-│   └── index.html                # Main HTML file
+│   └── booksData.json            # json file
 │
 ├── src/
 │   ├── assets/                   # Images, icons, and other static assets
 │   ├── components/               # Reusable components (e.g., Header, BookCard, Button)
-│   ├── pages/                    # Route pages (e.g., Home, Readlist, Wishlist)
+│   ├── pages/                    # Route pages (e.g., Home, Readlist, Wishlist)                                 
 │   ├── hooks/                    # Custom React hooks (optional)
 │   ├── utils/                    # Utility/helper functions
 │   ├── App.jsx                   # Main component with route setup
@@ -40,6 +40,9 @@ react-boi-poka/
 │   └── index.css                 # Global styles or Tailwind config
 │
 ├── .gitignore                    # Git ignored files
+├── eslint.config.js              # Eslint file
+├── index.html                    # Main index file
+├── package-lock.json             # Package lock file
 ├── package.json                  # Project dependencies and scripts
 ├── README.md                     # Project overview
 └── vite.config.js                # Vite configuration (or webpack.config.js)
