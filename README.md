@@ -33,8 +33,8 @@ react-boi-poka/
 │   ├── assets/                   # Images, icons, and other static assets
 │   ├── components/               # Reusable components (e.g., Header, BookCard, Button)
 │   ├── pages/                    # Route pages (e.g., Home, Readlist, Wishlist)                                 
-│   ├── hooks/                    # Custom React hooks (optional)
-│   ├── utils/                    # Utility/helper functions
+│   ├── Routes/                   # Setup Routes
+│   ├── utilities/                # Utility/helper functions
 │   ├── App.jsx                   # Main component with route setup
 │   ├── main.jsx                  # Entry point for React app
 │   └── index.css                 # Global styles or Tailwind config
