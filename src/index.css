@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.active{
+    font-weight: 500;
+    padding: 10px 20px;
+    border: 1px solid #23BE0A;
+    border-radius: 8px;
+    color: #23BE0A;
+}
+.activeReadBooks{
+    color: #23be0a;
+    border: 1px solid #23BE0A;
+    border-radius: 8px;
+    font-weight: 600;
+}
