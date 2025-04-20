@@ -19,7 +19,7 @@ const Navbar = () => {
                         menu?<X/>: <Menu/>
                     }
                 </div>
-               <ul className={`md:hidden flex flex-col gap-6 absolute duration-500 bg-green-200 text-center top-17 py-6 w-full ${menu ? 'right-0 ': '-right-full'}`}>
+               <ul className={`md:hidden flex flex-col gap-6 absolute duration-500 bg-green-200 text-center py-6 px-6 w-full ${menu ? 'top-17 left-0': '-top-full'}`}>
                <li>
                         <NavLink to='/' className={LinkStyle}>
                             Home
